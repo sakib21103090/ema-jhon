@@ -3,16 +3,9 @@
     grid-template-columns: 4fr 1fr;
 }
 .Product-Container{
+    margin: 50px;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    margin: 50px;
     gap: 45px;
 }
-.order-container{
-    background-color: rgb(243, 207, 194);
-    padding: 20px;
-    
-}
-h4{
-    text-align: center;
-}
+
