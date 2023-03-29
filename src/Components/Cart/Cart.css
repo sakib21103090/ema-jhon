@@ -1,5 +1,8 @@
-.order-container{
+.Order-summary-container{
     background-color: rgb(243, 207, 194);
     padding: 20px;
+    position: sticky;
+    top: 0;
+    height: 600px;
     
 }
