@@ -11,8 +11,9 @@ nav.header a{
     text-decoration: none;
     margin-left: 30px;
     color: aliceblue;
-
+    
 }
+
 nav.header a:hover{
     color: rgb(220, 172, 232);
 }
